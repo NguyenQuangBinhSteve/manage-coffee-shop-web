@@ -1,3 +1,4 @@
+#nullable enable
 namespace manage_coffee_shop_web.Models
 {
     public class ErrorViewModel
