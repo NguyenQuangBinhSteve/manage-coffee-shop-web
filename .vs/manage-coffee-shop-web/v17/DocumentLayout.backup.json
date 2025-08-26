@@ -54,8 +54,7 @@
               "RelativeToolTip": "Models\\ApplicationUser.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAnwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T09:13:00.578Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-25T09:13:00.578Z"
             },
             {
               "$type": "Document",
@@ -65,7 +64,7 @@
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\User\\Index.cshtml",
               "ToolTip": "C:\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\manage-coffee-shop-web\\Areas\\Admin\\Views\\User\\Index.cshtml",
               "RelativeToolTip": "Areas\\Admin\\Views\\User\\Index.cshtml",
-              "ViewState": "AgIAABEAAAAAAAAAAIAwwCAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-25T09:10:55.064Z",
               "EditorCaption": ""
@@ -80,8 +79,7 @@
               "RelativeToolTip": "Areas\\Admin\\Controllers\\UserController.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAqwBgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T09:09:42.289Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-25T09:09:42.289Z"
             },
             {
               "$type": "Document",
@@ -93,8 +91,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAACsAAAAAAAAAAAAAACwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T08:59:08.117Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-25T08:59:08.117Z"
             },
             {
               "$type": "Document",
@@ -106,8 +103,7 @@
               "RelativeToolTip": "Views\\Account\\Register.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-25T08:55:17.09Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-25T08:55:17.09Z"
             },
             {
               "$type": "Document",
@@ -119,8 +115,7 @@
               "RelativeToolTip": "Views\\Account\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-25T08:54:41.636Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-25T08:54:41.636Z"
             },
             {
               "$type": "Document",
@@ -132,8 +127,7 @@
               "RelativeToolTip": "Controllers\\AccountController.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAADwvxYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T08:37:23.384Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-25T08:37:23.384Z"
             }
           ]
         },
