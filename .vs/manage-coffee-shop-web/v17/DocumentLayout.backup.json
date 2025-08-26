@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\agileproject\\manage-coffee-shop-web\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1EBD0AE4-53BC-40E5-9F4F-33B2FBD7F19B}|manage-coffee-shop-web.csproj|d:\\agileproject\\manage-coffee-shop-web\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{1EBD0AE4-53BC-40E5-9F4F-33B2FBD7F19B}|manage-coffee-shop-web.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{1EBD0AE4-53BC-40E5-9F4F-33B2FBD7F19B}|manage-coffee-shop-web.csproj|d:\\agileproject\\manage-coffee-shop-web\\manage-coffee-shop-web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1EBD0AE4-53BC-40E5-9F4F-33B2FBD7F19B}|manage-coffee-shop-web.csproj|solutionrelative:manage-coffee-shop-web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "D:\\agileproject\\manage-coffee-shop-web\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
-              "ToolTip": "D:\\agileproject\\manage-coffee-shop-web\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "ScaffoldingReadMe.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-08-23T11:41:03.364Z",
+              "Title": "manage-coffee-shop-web",
+              "DocumentMoniker": "D:\\agileproject\\manage-coffee-shop-web\\manage-coffee-shop-web.csproj",
+              "RelativeDocumentMoniker": "manage-coffee-shop-web.csproj",
+              "ToolTip": "D:\\agileproject\\manage-coffee-shop-web\\manage-coffee-shop-web.csproj",
+              "RelativeToolTip": "manage-coffee-shop-web.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-23T12:06:51.701Z",
               "EditorCaption": ""
             }
           ]

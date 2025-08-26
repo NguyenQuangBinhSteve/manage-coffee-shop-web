@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\agileproject\\manage-coffee-shop-web\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBD0AE4-53BC-40E5-9F4F-33B2FBD7F19B}|manage-coffee-shop-web.csproj|d:\\agileproject\\manage-coffee-shop-web\\manage-coffee-shop-web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1EBD0AE4-53BC-40E5-9F4F-33B2FBD7F19B}|manage-coffee-shop-web.csproj|solutionrelative:manage-coffee-shop-web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "manage-coffee-shop-web.csproj",
+              "DocumentMoniker": "D:\\agileproject\\manage-coffee-shop-web\\manage-coffee-shop-web.csproj",
+              "RelativeDocumentMoniker": "manage-coffee-shop-web.csproj",
+              "ToolTip": "D:\\agileproject\\manage-coffee-shop-web\\manage-coffee-shop-web.csproj",
+              "RelativeToolTip": "manage-coffee-shop-web.csproj",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-23T12:06:51.701Z",
+              "EditorCaption": ""
             }
           ]
         }
